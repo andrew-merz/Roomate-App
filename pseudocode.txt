@@ -1,0 +1,19 @@
+MVP pseudocode
+
+//Start Page
+
+User will be prompted to create a new account
+    -they will create a username, password, email
+        -once account is created user will be prompted to create a new room or join an existing room
+        -new room
+            -create a room name and unique password
+        -existing room
+            -enter room password to join the room
+    -if they already have an account they will click log in
+
+Once the room has been entered by all of the roomates the status will be displayed
+    -users can only have one status at a time but can edit it whenever they feel like
+    -the newest status will go to the top of the page and be time stamped
+    -users cannot delete their status, only update it 
+    -users can comment once on eachothers status'
+    
